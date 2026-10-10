@@ -1,6 +1,0 @@
-{"records": [
- {"id": 1, "question": "Where are calendar events stored?", "answer": "Events are stored in a local SQLite database. No invitations are sent."},
- {"id": 2, "question": "What timezone should I use?", "answer": "Use the configured IANA timezone and store ISO 8601 timestamps with a UTC offset."},
- {"id": 3, "question": "How are conflicts handled?", "answer": "Overlapping events are rejected. Back-to-back events are allowed."},
- {"id": 4, "question": "Does the agent write to Google Calendar?", "answer": "No. This version manages a local calendar only."}
-]}
